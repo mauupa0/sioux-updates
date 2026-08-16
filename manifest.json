@@ -1,4 +1,15 @@
 {
   "stable": {},
-  "beta": {}
+  "beta": {
+    "bundle": {
+      "version": "0.8.0-b1",
+      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b1.zip",
+      "sha256": "a23f3710bc94faad23be34d99b2d69d30261a7084b3518d6ad1d79466b7e1679",
+      "size": 1044526,
+      "minNative": 9,
+      "notes": "Pierwsza paczka przez zakladke Aktualizacje. Jak w stopce apki widac 0.8.0-b1 zamiast 0.8.0 — aktualizacja weszla.",
+      "published": "2026-08-16T23:09:07.516Z"
+    },
+    "historia": []
+  }
 }
