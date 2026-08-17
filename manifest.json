@@ -1,5 +1,12 @@
 {
-  "stable": {},
+  "stable": {
+    "apk": {
+      "versionCode": 9,
+      "versionName": "0.8.0",
+      "url": "https://github.com/mauupa0/sioux-updates/releases/latest/download/Sioux.apk",
+      "notes": "Pelna aktualizacja apki glownej — Android zapyta o zgode na instalacje."
+    }
+  },
   "beta": {
     "bundle": {
       "version": "0.8.0-b3",
@@ -21,6 +28,12 @@
         "notes": "Pierwsza paczka przez zakladke Aktualizacje. Jak w stopce apki widac 0.8.0-b1 zamiast 0.8.0 — aktualizacja weszla.",
         "published": "2026-08-16T23:09:07.516Z"
       }
-    ]
+    ],
+    "apk": {
+      "versionCode": 9,
+      "versionName": "0.8.0",
+      "url": "https://github.com/mauupa0/sioux-updates/releases/latest/download/Sioux-Nowa.apk",
+      "notes": "Pelna aktualizacja apki testowej — Android zapyta o zgode na instalacje."
+    }
   }
 }
