@@ -2,15 +2,20 @@
   "stable": {},
   "beta": {
     "bundle": {
-      "version": "0.8.0-b2",
-      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b2.zip",
-      "sha256": "69cddb640ccec08847f86166e1f71c9aab9720539d033b8343219c4b6bf52318",
+      "version": "0.8.0-b3",
+      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b3.zip",
+      "sha256": "b3ef4455dc683e046f4b25941de8afea107b716d271777353462bd6b5483e306",
       "size": 1044800,
       "minNative": 9,
-      "notes": "Rowne nazwy salatek, czytelny przycisk wysylki i potwierdzenie po aktualizacji.",
-      "published": "2026-08-17T00:26:42.599Z"
+      "notes": "Szybszy meldunek po starcie (nie cofa dzialajacej wersji na wolnym telefonie).",
+      "published": "2026-08-17T00:28:41.905Z"
     },
     "historia": [
+      {
+        "version": "0.8.0-b2",
+        "notes": "Rowne nazwy salatek, czytelny przycisk wysylki i potwierdzenie po aktualizacji.",
+        "published": "2026-08-17T00:26:42.599Z"
+      },
       {
         "version": "0.8.0-b1",
         "notes": "Pierwsza paczka przez zakladke Aktualizacje. Jak w stopce apki widac 0.8.0-b1 zamiast 0.8.0 — aktualizacja weszla.",
