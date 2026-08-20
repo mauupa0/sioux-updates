@@ -9,15 +9,20 @@
   },
   "beta": {
     "bundle": {
-      "version": "0.8.0-b3",
-      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b3.zip",
-      "sha256": "b3ef4455dc683e046f4b25941de8afea107b716d271777353462bd6b5483e306",
-      "size": 1044800,
+      "version": "0.8.0-b4",
+      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b4.zip",
+      "sha256": "9fcbf565096f67214e38eba66c3ed6ccc4e9d893dae9c922bc5bb05c78fcbd85",
+      "size": 1044804,
       "minNative": 9,
-      "notes": "Szybszy meldunek po starcie (nie cofa dzialajacej wersji na wolnym telefonie).",
-      "published": "2026-08-17T00:28:41.905Z"
+      "notes": "Testowa aktualizacja — nic się w apce nie zmienia. Sprawdzamy tylko, czy pobieranie działa. Po instalacji w stopce ma być 0.8.0-b4.",
+      "published": "2026-08-20T20:53:28.295Z"
     },
     "historia": [
+      {
+        "version": "0.8.0-b3",
+        "notes": "Szybszy meldunek po starcie (nie cofa dzialajacej wersji na wolnym telefonie).",
+        "published": "2026-08-17T00:28:41.905Z"
+      },
       {
         "version": "0.8.0-b2",
         "notes": "Rowne nazwy salatek, czytelny przycisk wysylki i potwierdzenie po aktualizacji.",
