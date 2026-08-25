@@ -9,15 +9,20 @@
   },
   "beta": {
     "bundle": {
-      "version": "0.8.0-b4",
-      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b4.zip",
-      "sha256": "9fcbf565096f67214e38eba66c3ed6ccc4e9d893dae9c922bc5bb05c78fcbd85",
-      "size": 1044804,
+      "version": "0.8.0-b5",
+      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b5.zip",
+      "sha256": "9e47d224a8705ca0b906237d2ba7ddb000fcfd194ee043d9e1fdf723a05290f4",
+      "size": 1045441,
       "minNative": 9,
-      "notes": "Testowa aktualizacja — nic się w apce nie zmienia. Sprawdzamy tylko, czy pobieranie działa. Po instalacji w stopce ma być 0.8.0-b4.",
-      "published": "2026-08-20T20:53:28.295Z"
+      "notes": "0.8.0-b5",
+      "published": "2026-08-25T23:32:51.104Z"
     },
     "historia": [
+      {
+        "version": "0.8.0-b4",
+        "notes": "Testowa aktualizacja — nic się w apce nie zmienia. Sprawdzamy tylko, czy pobieranie działa. Po instalacji w stopce ma być 0.8.0-b4.",
+        "published": "2026-08-20T20:53:28.295Z"
+      },
       {
         "version": "0.8.0-b3",
         "notes": "Szybszy meldunek po starcie (nie cofa dzialajacej wersji na wolnym telefonie).",
