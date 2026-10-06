@@ -9,15 +9,20 @@
   },
   "beta": {
     "bundle": {
-      "version": "0.8.0-b5",
-      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b5.zip",
-      "sha256": "9e47d224a8705ca0b906237d2ba7ddb000fcfd194ee043d9e1fdf723a05290f4",
-      "size": 1045441,
+      "version": "0.8.0-b6",
+      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b6.zip",
+      "sha256": "0dd5025ab20d8b4dce3ed354875208deb8dc620fd283299fdf09eeef1a11bd60",
+      "size": 1046267,
       "minNative": 9,
-      "notes": "0.8.0-b5",
-      "published": "2026-08-25T23:32:51.104Z"
+      "notes": "Gdy zlecenie z grilla nie dojdzie do bułki, na ekranie wyskakuje okno BŁĄD WYSYŁKI i telefon wibruje, aż ktoś kliknie WYŚLIJ PONOWNIE albo ZAMKNIJ.",
+      "published": "2026-10-06T20:57:42.562Z"
     },
     "historia": [
+      {
+        "version": "0.8.0-b5",
+        "notes": "0.8.0-b5",
+        "published": "2026-08-25T23:32:51.104Z"
+      },
       {
         "version": "0.8.0-b4",
         "notes": "Testowa aktualizacja — nic się w apce nie zmienia. Sprawdzamy tylko, czy pobieranie działa. Po instalacji w stopce ma być 0.8.0-b4.",
