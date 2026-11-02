@@ -9,17 +9,22 @@
   },
   "beta": {
     "bundle": {
-      "version": "0.8.0-b7",
-      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b7.zip",
-      "sha256": "a60d0460d2843aff59526e58109326c426bc77ae429e201ed3b42e719ec9ec36",
-      "size": 1055037,
+      "version": "0.8.0-b8",
+      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b8.zip",
+      "sha256": "c1b6872281d112bc1140fa6f4fadb772e6649c4b26d4a0eee481a503afb1d928",
+      "size": 1052378,
       "minNative": 9,
       "nativeFp": "3180e09a20bb502a3d2f6e3a526e029584a6b182f9b6506b4d25609308680717",
-      "commit": "4afd638",
-      "notes": "Kolejka bez WiFi, anulowanie i Popraw na grillu, Cofnij i Przywróć na bułce, dziennik zmiany, czas czekania, Sałatki razem, Zgłoś brak",
-      "published": "2026-11-02T21:57:38.817Z"
+      "commit": "0343bdb",
+      "notes": "Prosciej na bulce: bez Cofnij, licznika i karty Anulowane, wieksze Salatki razem, bez Zglos brak i podsumowania w Logach",
+      "published": "2026-11-02T22:11:22.093Z"
     },
     "historia": [
+      {
+        "version": "0.8.0-b7",
+        "notes": "Kolejka bez WiFi, anulowanie i Popraw na grillu, Cofnij i Przywróć na bułce, dziennik zmiany, czas czekania, Sałatki razem, Zgłoś brak",
+        "published": "2026-11-02T21:57:38.817Z"
+      },
       {
         "version": "0.8.0-b6",
         "notes": "Gdy zlecenie z grilla nie dojdzie do bułki, na ekranie wyskakuje okno BŁĄD WYSYŁKI i telefon wibruje, aż ktoś kliknie WYŚLIJ PONOWNIE albo ZAMKNIJ.",
