@@ -9,17 +9,22 @@
   },
   "beta": {
     "bundle": {
-      "version": "0.8.0-b6",
-      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b6.zip",
-      "sha256": "0dd5025ab20d8b4dce3ed354875208deb8dc620fd283299fdf09eeef1a11bd60",
-      "size": 1046267,
+      "version": "0.8.0-b10",
+      "url": "https://raw.githubusercontent.com/mauupa0/sioux-updates/main/bundles/beta-0.8.0-b10.zip",
+      "sha256": "69171ff6718c2092c025a0099ebf49a8812f00da8e060c45f5605a4aec6db6c9",
+      "size": 1047945,
       "minNative": 9,
       "nativeFp": "3180e09a20bb502a3d2f6e3a526e029584a6b182f9b6506b4d25609308680717",
-      "commit": "83942fc",
-      "notes": "Powrót do sprawdzonej wersji 0.8.0-b6: STARTY na niebiesko i alarm BŁĄD WYSYŁKI. Zmiany z 2 listopada wycofane. Zaktualizuj OBA telefony.",
-      "published": "2026-11-15T03:40:33.885Z"
+      "commit": "c1754c8",
+      "notes": "Grill sam wraca po zerwaniu z bułką (też gdy bułka dostanie nowy adres) i telefony zapisują logi połączenia. Zaktualizuj OBA telefony.",
+      "published": "2026-11-16T03:24:31.075Z"
     },
     "historia": [
+      {
+        "version": "0.8.0-b6",
+        "notes": "Powrót do sprawdzonej wersji 0.8.0-b6: STARTY na niebiesko i alarm BŁĄD WYSYŁKI. Zmiany z 2 listopada wycofane. Zaktualizuj OBA telefony.",
+        "published": "2026-11-15T03:40:33.885Z"
+      },
       {
         "version": "0.8.0-b8",
         "notes": "Prosciej na bulce: bez Cofnij, licznika i karty Anulowane, wieksze Salatki razem, bez Zglos brak i podsumowania w Logach",
